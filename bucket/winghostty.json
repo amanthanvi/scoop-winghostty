@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.108/winghostty-1.3.108-windows-x64-portable.zip",
-      "hash": "b71e93f4b40456508ca5ae04308d2a998b75565fb93197ad150e39883d69241f"
+      "hash": "aaedb95a8e9bb61204ff6cc5da87403874990a78f40a05f5cb86f8e44edaeed2"
     }
   },
   "extract_dir": "winghostty",

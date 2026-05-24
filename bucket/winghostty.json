@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.113/winghostty-1.3.113-windows-x64-portable.zip",
-      "hash": "9a585c0cc7456f74310c3e383a981616f7acb8dd794a8b70afb272ac02d4b8e3"
+      "hash": "99535d19251474de752dfb7207e7279eba47838411c17a2a186d63981810f462"
     },
     "arm64": {
       "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.113/winghostty-1.3.113-windows-arm64-portable.zip",
-      "hash": "dc1ce2d42fa7e0ffabca473033a0956d8f4ca7afa45c22bb0013768de71b64d1"
+      "hash": "5b2cc7233d394a3b9b649faef608b6e0a3e91a230eb8e23f8351a9bbac54fa04"
     }
   },
   "extract_dir": "winghostty",

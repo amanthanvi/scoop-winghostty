@@ -1,16 +1,16 @@
 {
-  "version": "1.3.120",
+  "version": "1.3.121",
   "description": "winghostty is a Windows terminal emulator that reuses Ghostty's terminal core under a native Win32 front end.",
   "homepage": "https://github.com/amanthanvi/winghostty",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.120/winghostty-1.3.120-windows-x64-portable.zip",
-      "hash": "2de169bc182adfd7516c05fb467ccd6467b45dfafeb10e4c43065614f3d3eb05"
+      "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.121/winghostty-1.3.121-windows-x64-portable.zip",
+      "hash": "9a08bd43eaeb2de666e067e71a8dd1b99a4f6167553437906f1816c71860b964"
     },
     "arm64": {
-      "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.120/winghostty-1.3.120-windows-arm64-portable.zip",
-      "hash": "0eacdec0390a26e1531c4c2d66dafadae5c462ed7ef97d0f5b81e067a535519a"
+      "url": "https://github.com/amanthanvi/winghostty/releases/download/v1.3.121/winghostty-1.3.121-windows-arm64-portable.zip",
+      "hash": "923a64edf3562b1e594d519eee953a8f5919ad267833270b57b59c8d3aef4c37"
     }
   },
   "extract_dir": "winghostty",

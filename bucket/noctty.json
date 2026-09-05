@@ -1,16 +1,16 @@
 {
-  "version": "1.3.125",
+  "version": "1.3.126",
   "description": "noctty is a Windows terminal emulator that reuses Ghostty's terminal core under a native Win32 front end.",
   "homepage": "https://github.com/amanthanvi/noctty",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/amanthanvi/noctty/releases/download/v1.3.125/noctty-1.3.125-windows-x64-portable.zip",
-      "hash": "24b70503d191069b8d710136263ed2775b4d3c2e148e4a825acdc0eaae23f5c8"
+      "url": "https://github.com/amanthanvi/noctty/releases/download/v1.3.126/noctty-1.3.126-windows-x64-portable.zip",
+      "hash": "1e67343bee4ecbdaa89f82dc57429c28febe75ee2c15462e21c521afa0d95d31"
     },
     "arm64": {
-      "url": "https://github.com/amanthanvi/noctty/releases/download/v1.3.125/noctty-1.3.125-windows-arm64-portable.zip",
-      "hash": "d51f39fab476b69405847ce46cc7ad21d47c362f80f9bbee3c8e3e7daa9fe355"
+      "url": "https://github.com/amanthanvi/noctty/releases/download/v1.3.126/noctty-1.3.126-windows-arm64-portable.zip",
+      "hash": "b7706f8d09269b12b3e1c57b6d8f299db9da0cdc640444762f8b90a928ba3adf"
     }
   },
   "extract_dir": "noctty",
